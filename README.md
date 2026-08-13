@@ -1,2 +1,0 @@
-# tkasd
-latihan TKA SD
